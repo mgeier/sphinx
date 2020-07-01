@@ -20,6 +20,8 @@ version = sphinx.__display_version__
 release = version
 show_authors = True
 
+nitpicky = True
+
 html_theme = 'sphinx13'
 html_theme_path = ['_themes']
 modindex_common_prefix = ['sphinx.']
